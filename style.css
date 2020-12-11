@@ -20,7 +20,7 @@ h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -32,11 +32,11 @@ header nav {
     font-size: 20px;
 }
 
-header nav ul {
+ul {
     list-style-type: none;
 }
 
-header nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
