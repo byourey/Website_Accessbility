@@ -18,7 +18,8 @@ SEO Marketing Agency Website Accessibility
 * Github for helping me with my README file.
 
 ### Website
-* ! [Working website] (https://github.com/byourey/Website_Accessibility/tree/main/Images/Website_Accessibility_Working_website.jpg)
+https://github.com/byourey/Website_Accessibility/blob/main/Images/Website_Accessibility_Working_website.jpg
+
 
 
 
