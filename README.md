@@ -11,8 +11,9 @@ Usage
 * Made sure navigation headings are clickable.
 
 CREDITS
-* Markup : W3schools website for helping me understand HTML semantic elements.
+* W3schools website for helping me understand HTML semantic elements.
 * Kyle Daniels for helping me through with navigation.
+* Github for helping me with my README file
 
 
 
