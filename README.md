@@ -1,19 +1,19 @@
-# Website_Accessbility
-SEO Marketing Agency Website Accessbility
+# Website_Accessibility
+SEO Marketing Agency Website Accessibility
 
 Install
-* Clone repository to your local device
-* Folders are structured already, so test by opening the index.html file in your browser. If it looks good, it's working right.
+* Clone repository to your local device.
+* Open the index.html in your browser and navigate the website. Click on navigation headings and if everything works well, then its good.
 
 Usage
-* Commented for every section on the page in HTML and CSS
+* Commented for every section on the page in HTML and CSS.
 * Added alt attributes for the images.
 * Made sure navigation headings are clickable.
 
 CREDITS
 * W3schools website for helping me understand HTML semantic elements.
 * Kyle Daniels for helping me through with navigation.
-* Github for helping me with my README file
+* Github for helping me with my README file.
 
 Website
 * 
