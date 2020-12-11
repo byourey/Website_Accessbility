@@ -1,7 +1,7 @@
 # Website_Accessibility
 SEO Marketing Agency Website Accessibility
 
-[View my deployed Application Here.] (https://byourey.github.io/Website_Accessibility/)
+<a href="https://byourey.github.io/Website_Accessibility">View my Deployed Application Here</a>
 
 Install
 * Clone repository to your local device.
