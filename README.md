@@ -13,8 +13,8 @@ SEO Marketing Agency Website Accessibility
 * Made sure navigation headings are clickable.
 
 ### Credits
-* <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">W3 schools</a>for helping me understand HTML semantic elements.
-* <a href="https://github.com/matiassingers/awesome-readme">Github</a>for helping me with my README file.
+* <a href="https://www.w3schools.com/html/html5_semantic_elements.asp">W3 schools</a> for helping me understand HTML semantic elements.
+* <a href="https://github.com/matiassingers/awesome-readme">Github</a> for helping me with my README file.
 
 ### Website
 ![Website](https://github.com/byourey/Website_Accessibility/blob/main/Images/Website_Accessibility_Working_website.jpg)
