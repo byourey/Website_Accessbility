@@ -1,3 +1,5 @@
+/* Overall Section */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -6,15 +8,6 @@
 
 body {
     background-color: #d9dcd6;
-}
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
 }
 
 /* Header Section */
@@ -42,6 +35,11 @@ span.seo {
 
 /* Navigation Section */
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -60,6 +58,10 @@ li {
 }
 
 /* Main Section */
+
+p {
+    font-size: 16px;
+}
 
 div.content {
     width: 75%;
